@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.10.0",
+    "libraryName": "test-app-customizer",
+    "libraryId": "e20ccf7b-42c9-4cfc-8a8f-a3bb5a137d8b",
+    "environment": "onprem19",
+    "packageManager": "npm",
+    "isCreatingSolution": true,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
